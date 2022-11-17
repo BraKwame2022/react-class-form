@@ -1,0 +1,11 @@
+.user-container{
+    display: flex;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+    width: 550px;
+    /* margin-bottom: 15px; */
+    margin-top: 15px;
+}
